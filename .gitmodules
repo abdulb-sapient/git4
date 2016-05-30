@@ -2,3 +2,7 @@
 	path = WebApplication1\\assets2\\cambridge-ui2
 	url = git@bitbucket.org:ca-labs/cambridge-ui.git
 	branch = master
+[submodule "WebApplication1\\assets3\\cambridge-ui"]
+	path = WebApplication1\\assets3\\cambridge-ui
+	url = git@bitbucket.org:ca-labs/cambridge-ui.git
+	branch = master
