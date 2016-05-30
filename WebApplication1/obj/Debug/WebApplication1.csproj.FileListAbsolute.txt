@@ -1,0 +1,6 @@
+D:\Abdul\Development\HandsOn\Git\Repos\Submodule\git14\WebApplication1\bin\WebApplication1.dll.config
+D:\Abdul\Development\HandsOn\Git\Repos\Submodule\git14\WebApplication1\bin\WebApplication1.dll
+D:\Abdul\Development\HandsOn\Git\Repos\Submodule\git14\WebApplication1\bin\WebApplication1.pdb
+D:\Abdul\Development\HandsOn\Git\Repos\Submodule\git14\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\Abdul\Development\HandsOn\Git\Repos\Submodule\git14\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Abdul\Development\HandsOn\Git\Repos\Submodule\git14\WebApplication1\obj\Debug\WebApplication1.pdb
