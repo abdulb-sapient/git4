@@ -1,0 +1,4 @@
+[submodule "WebApplication1\\assets2\\cambridge-ui2"]
+	path = WebApplication1\\assets2\\cambridge-ui2
+	url = git@bitbucket.org:ca-labs/cambridge-ui.git
+	branch = master
